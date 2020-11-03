@@ -71,6 +71,7 @@ release.properties
 ######################
 /log/
 /target/
+/test-output/
 ######################
 # Gradle
 ######################
